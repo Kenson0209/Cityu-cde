@@ -6,7 +6,7 @@ Welcome to the City University Hong Kong - Computer and Data Engineering Notes r
 The Computer and Data Engineering major is offered under the Department of Electrical Engineering at CityUHK, blending computer science and data-driven engineering concepts. This repository is a growing resource, and we welcome contributions from anyone willing to share their knowledge!
 
 # Repository Organization
-The notes are organized by course, with each course having its own directory. Inside these directories, you’ll find files or subdirectories containing:
+The notes are organized by course, with each course having its own directory. Inside these directories, you’ll find files.
 
 # Lecture notes (e.g., PDFs, Markdown files)
 Assignments or tutorials
@@ -17,7 +17,7 @@ Feel free to explore the structure and suggest improvements!
 These notes are intended for educational purposes only. Please respect the intellectual property rights of the original authors, including City University Hong Kong instructors and students, and refrain from using these materials for commercial purposes without permission.
 
 # Contributing
-This is a collaborative project, and anyone can build this together! If you have any sources, notes, or resources related to the Computer and Data Engineering major at CityUHK, please upload them to this repository. Here’s how you can contribute:
+This is a collaborative project, and anyone can build this together! If you have any sources, notes, or resources related to the Computer and Data Engineering major at CityUHK, please upload them to this repository. 
 
 # Fork this repository or clone it to your local machine.
 Add your notes or resources to the appropriate course directory (or create a new one if needed).
